@@ -6,7 +6,7 @@
 # to clean up.
 
 # Adds `~/.local/bin` to $PATH
-export PATH="$PATH:$(du "$HOME/.local/bin" | cut -f2 | paste -sd ':')"
+export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | paste -sd ':')"
 
 # Default programs:
 export EDITOR="nvim"
@@ -68,15 +68,11 @@ ex=🎯:\
 *.me=✍:\
 *.ms=✍:\
 *.png=🖼:\
-*.webp=🖼:\
 *.ico=🖼:\
 *.jpg=📸:\
-*.jpe=📸:\
 *.jpeg=📸:\
 *.gif=🖼:\
 *.svg=🗺:\
-*.tif=🖼:\
-*.tiff=🖼:\
 *.xcf=🖌:\
 *.html=🌎:\
 *.xml=📰:\
@@ -93,7 +89,6 @@ ex=🎯:\
 *.R=📊:\
 *.rmd=📊:\
 *.Rmd=📊:\
-*.m=📊:\
 *.mp3=🎵:\
 *.opus=🎵:\
 *.ogg=🎵:\
@@ -111,9 +106,6 @@ ex=🎯:\
 *.z64=🎮:\
 *.v64=🎮:\
 *.n64=🎮:\
-*.gba=🎮:\
-*.nes=🎮:\
-*.gdi=🎮:\
 *.1=ℹ:\
 *.nfo=ℹ:\
 *.info=ℹ:\
@@ -124,8 +116,6 @@ ex=🎯:\
 *.ged=👪:\
 *.part=💔:\
 *.torrent=🔽:\
-*.jar=♨:\
-*.java=♨:\
 "
 
 [ ! -f ${XDG_CONFIG_HOME:-$HOME/.config}/shortcutrc ] && shortcuts >/dev/null 2>&1 &
