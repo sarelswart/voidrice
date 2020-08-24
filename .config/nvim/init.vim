@@ -104,10 +104,10 @@ set clipboard+=unnamedplus
 " Ensure files are read as what I want:
 	let g:vimwiki_ext2syntax = {'.Rmd': 'markdown', '.rmd': 'markdown','.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown','.wiki':'default'}
 	map <leader>v :VimwikiIndex
-	let g:vimwiki_list = [{'path': '~/rep/webserver/wiki',
+	let g:vimwiki_list = [{'path': '~/repos/webserver/wiki',
 		\ 'syntax': 'default',
 		\ 'ext': '.wiki',
-		\ 'path_html': '~/rep/webserver/html'}]
+		\ 'path_html': '~/repos/webserver/html'}]
 	autocmd BufRead,BufNewFile /tmp/calcurse*,~/.calcurse/notes/* set filetype=markdown
 	autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
 	autocmd BufRead,BufNewFile *.tex set filetype=tex
