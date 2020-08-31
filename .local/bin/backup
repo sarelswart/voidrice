@@ -1,10 +1,33 @@
 #!/bin/sh
 
-# Script for automated commits to webserver repo
+# Automated backup scripts for various repos and dotfiles
+
 COMMIT_TIMESTAMP=`date +'%Y-%m-%d %H:%M:%S %Z'`
-nvim -c VimwikiIndex -c VimwikiAll2HTML -c q index.wiki
-cd ~/webserver
-git add *
+
+# voidrice (dotfiles):
+# Archive selected dotfiles and scripts from file list to fork repo
+# of Luke's voidrice
+rsync -a --files-from=$HOME/.config/synclist $HOME $HOME/repos/voidrice
+cd ~/repos/voidrice
+git add .
 git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
 git push -u origin master
 
+# Marlin:
+cd ~/repos/Marlin
+git add .
+git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
+git push -u origin master
+
+# webserver:
+nvim -c VimwikiIndex -c VimwikiAll2HTML -c q index.wiki
+cd ~/repos/webserver
+git add .
+git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
+git push -u origin master
+
+# biomat:
+cd ~/dox/biomat
+git add .
+git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
+git push -u origin master
