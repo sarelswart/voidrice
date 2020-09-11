@@ -1,8 +1,13 @@
 # vim: filetype=conf
 
-ncmpcpp_directory = "~/.config/ncmpcpp"
-lyrics_directory = "~/.local/share/lyrics"
-mpd_music_dir = "~/Music"
+# connection settings:
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_connection_timeout = "5"
+mpd_crossfade_time = "5"
+ncmpcpp_directory = "/home/roland/.config/ncmpcpp"
+lyrics_directory = "/home/roland/.local/share/lyrics"
+mpd_music_dir = "/home/roland/dl"
 message_delay_time = "1"
 visualizer_type = "spectrum"
 song_list_format = {$4%a - }{%t}|{$8%f$9}$R{$3(%l)$9}
