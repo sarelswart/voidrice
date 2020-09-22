@@ -843,3 +843,761 @@ Sep 11 22:36 : update: removing The Strokes - Is This It (2001) [24 bit FLAC] vi
 Sep 11 22:36 : update: removing The Strokes - Is This It (2001) [24 bit FLAC] vinyl/08. Hard To Explain.flac
 Sep 11 22:36 : update: removing The Strokes - Is This It (2001) [24 bit FLAC] vinyl/06. Alone, Together.flac
 Sep 11 22:36 : update: removing The Strokes - Is This It (2001) [24 bit FLAC] vinyl/09. New York City Cops.flac
+Sep 12 13:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 13:23 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 12 13:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 13:34 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 15:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 15:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 20:32 : client: [0] opened from 127.0.0.1:38474
+Sep 13 20:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 20:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 20:37 : player: played "Helmet - Дискография mp3/1992 - Meantime/04 - Unsung.mp3"
+Sep 13 20:40 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/01-alice_in_chains-we_die_young-h8me.mp3"
+Sep 13 20:44 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/02-alice_in_chains-man_in_the_box-h8me.mp3"
+Sep 13 20:50 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/03-alice_in_chains-sea_of_sorrow-h8me.mp3"
+Sep 13 20:54 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/04-alice_in_chains-bleed_the_freak-h8me.mp3"
+Sep 13 20:58 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/05-alice_in_chains-i_can't_remember-h8me.mp3"
+Sep 13 21:04 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/07-alice_in_chains-it_ain't_like_that-h8me.mp3"
+Sep 13 21:09 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/08-alice_in_chains-sunshine-h8me.mp3"
+Sep 13 21:12 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/09-alice_in_chains-put_you_down-h8me.mp3"
+Sep 13 21:18 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/10-alice_in_chains-confusion-h8me.mp3"
+Sep 13 21:22 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/11-alice_in_chains-i_know_somethin'_('bout_you)-h8me.mp3"
+Sep 13 21:23 : update: added Kyuss/Blues For The Red Sun/14 Yeah.flac
+Sep 13 21:26 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/12-alice_in_chains-real_thing-h8me.mp3"
+Sep 13 21:29 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/01-alice_in_chains-them_bones-h8me.mp3"
+Sep 13 21:32 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/02-alice_in_chains-damn_that_river-h8me.mp3"
+Sep 13 21:36 : exception: Failed to open /home/roland/.config/mpd/playlists: No such file or directory
+Sep 13 21:38 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/03-alice_in_chains-rain_when_i_die-h8me.mp3"
+Sep 13 21:43 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/04-alice_in_chains-sickman-h8me.mp3"
+Sep 13 21:50 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/05-alice_in_chains-rooster-h8me.mp3"
+Sep 13 21:55 : player: played "Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/06-alice_in_chains-junkhead-h8me.mp3"
+Sep 13 21:56 : update: added Kyuss/Blues For The Red Sun/11 Capsized.flac
+Sep 13 22:00 : player: played "Ozzy Osbourne - The Very Best/11 - Hellraiser.mp3"
+Sep 13 22:09 : player: played "Soundgarden/Badmotorfinger/01 - Soundgarden - Rusty Cage.flac"
+Sep 13 22:39 : update: added Kyuss/Welcome to Sky Valley/11 Lick Doo (Hidden Track).flac
+Sep 13 22:48 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/06 - Money.flac
+Sep 13 22:51 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/12 - The grand Vizier's Garden Party [Part Three, Exit].flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/02 - Remember A Day.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/05 - A Saucerful Of Secrets.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/06 - See-Saw.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/04 - Corporal Clegg.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/07 - Jugband Blues.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/01 - Speak to Me.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/07 - Us and Them.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/03 - On the Run.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/05 - The Great Gig in the Sky.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/02 - Breathe in the Air.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/08 - Any Colour You Like.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/10 - Eclipse.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/09 - Brain Damage.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Dark Side Of The Moon 1973 [EAC - FLAC] (oan)/04 - Time.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Wish You Were Here 1975 [EAC - FLAC] (oan)/04 - Wish You Were Here.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/08 - The Gnome.flac
+Sep 13 23:00 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/02 - Lucifer Sam.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/03 - Matilda Mother.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/01 - Let There Be More Light.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/03 - Set The Controls For The Heart Of The Sun.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/03 - Sysyphus [Part Three].flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/10 - The grand Vizier's Garden Party [Part One, Entrance].flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/04 - Flaming.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/05 - Pow R. Toc H..flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/11 - Bike.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/07 - Interstellar Overdrive.flac
+Sep 13 23:02 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/09 - Chapter 24.flac
+Sep 13 23:03 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk.flac
+Sep 13 23:04 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/07 - The narrow Way [Part One].flac
+Sep 13 23:08 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Wish You Were Here 1975 [EAC - FLAC] (oan)/03 - Have a Cigar.flac
+Sep 13 23:08 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Wish You Were Here 1975 [EAC - FLAC] (oan)/01 - Shine On You Crazy Diamond [Parts I–V].flac
+Sep 13 23:08 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Wish You Were Here 1975 [EAC - FLAC] (oan)/05 - Shine On You Crazy Diamond [Parts VI–IX].flac
+Sep 13 23:08 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Wish You Were Here 1975 [EAC - FLAC] (oan)/02 - Welcome to The Machine.flac
+Sep 13 23:09 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/03 - Matilda Mother.flac
+Sep 13 23:09 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/05 - A Great Day For Freedom.flac
+Sep 13 23:10 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/04 - Flaming.flac
+Sep 13 23:10 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/11 - Bike.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/03 - See Emily Play.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/11 - High Hopes.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/08 - The Gnome [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/03 - Matilda Mother [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/11 - Bike [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/10 - The Scarecrow [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/05 - Pow R. Toc H. [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/02 - Lucifer Sam.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/01 - Sysyphus [Part One].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/04 - Flaming [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/02 - Lucifer Sam [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/07 - Interstellar Overdrive [mono].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/08 - Matilda Mother [Alternative Version].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/09 - Chapter 24.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/10 - The Scarecrow.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/09 - Keep Talking.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/02 - What Do You Want From Me.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/08 - The narrow Way [Part Two].flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/06 - Several Species of small furry Animals gathered together in a Cave.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/04 - Marooned.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/04 - Apples And Oranges.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/01 - Arnold Layne.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/05 - Paintbox.flac
+Sep 13 23:11 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/11 - The grand Vizier's Garden Party [Part Two, Entertainment].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Live Album 1969 [EAC - FLAC] (oan)/02 - Careful With That Axe, Eugene.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Live Album 1969 [EAC - FLAC] (oan)/04 - A Saucerful Of Secrets.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Live Album 1969 [EAC - FLAC] (oan)/03 - Set The Controls For The Heart Of The Sun.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/09 - Interstellar Overdrive [Take 6].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/02 - Candy And A Currant Bun.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/06 - Interstellar Overdrive [Take 2] [French Edit].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/08 - Coming Back To Life.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/09 - Chapter 24 [mono].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/02 - Sysyphus [Part Two].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/08 - The Gnome.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/07 - Interstellar Overdrive.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/04 - The Gold It's In The....flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/05 - Wot's... Uh The Deal .flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/07 - Childhood's End.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/02 - When You're In.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/06 - Mudmen.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/10 - Absolutely Curtains.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/09 - Stay.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/01 - Obscured By Clouds.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/03 - Burning Bridges.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Obscured By Clouds 1972 [EAC - FLAC] (oan)/08 - Free Four.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/05 - Pow R. Toc H..flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 2] 2007 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 1] 2007 [EAC - FLAC] (oan)/01 - Astronomy Domine [mono].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/06 - Wearing The Inside Out.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/01 - Cluster One.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/10 - Lost For Words.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/07 - Take It Back.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Division Bell 1994 [EAC - FLAC] (oan)/03 - Poles Apart.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper At The Gates Of Dawn 40th [Disc 3] 2007 [EAC - FLAC] (oan)/07 - Apples And Oranges [Stereo Version].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/05 - Grantchester Meadows.flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/04 - Sysyphus [Part Four].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/09 - The narrow Way [Part Three].flac
+Sep 13 23:12 : update: added Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Live Album 1969 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac
+Sep 14 00:39 : update: added Kyuss/Welcome to Sky Valley/08 Conan Troutman.flac
+Sep 14 00:41 : update: added Kyuss/Blues For The Red Sun/09 800.flac
+Sep 14 00:46 : update: added Kyuss/Blues For The Red Sun/03 Molten Universe.flac
+Sep 14 00:46 : update: added Kyuss/Blues For The Red Sun/02 Green Machine.flac
+Sep 14 00:47 : update: added Kyuss/Welcome to Sky Valley/09 N.O..flac
+Sep 14 00:47 : update: added Kyuss/Welcome to Sky Valley/04 100°.flac
+Sep 14 00:47 : update: added Kyuss/Blues For The Red Sun/05 Thong Song.flac
+Sep 14 00:48 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/06 Spiders and Vinegaroons.flac
+Sep 14 00:49 : update: added Kyuss/Blues For The Red Sun/10 Writhe.flac
+Sep 14 00:49 : update: added Kyuss/Blues For The Red Sun/04 50 Million Year Trip [Downside Up].flac
+Sep 14 00:49 : update: added Kyuss/Welcome to Sky Valley/01 Gardenia.flac
+Sep 14 00:49 : update: added Kyuss/Blues For The Red Sun/01 Thumb.flac
+Sep 14 00:50 : update: added Kyuss/Welcome to Sky Valley/10 Whitewater.flac
+Sep 14 00:50 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/01 Into the Void.flac
+Sep 14 00:50 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/02 Fatso Forgotso.flac
+Sep 14 00:50 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/03 Fatso Forgotso Phase II (flip the phase).flac
+Sep 14 00:51 : update: added Kyuss/Welcome to Sky Valley/07 Odyssey.flac
+Sep 14 00:51 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/04 If Only Everything.flac
+Sep 14 00:51 : update: added Kyuss/Kyuss & Queens of the Stone Age Split CD/05 Born to Hula.flac
+Sep 14 00:51 : update: added Kyuss/Blues For The Red Sun/08 Freedom Run.flac
+Sep 14 00:51 : update: added Kyuss/Welcome to Sky Valley/02 Asteroid.flac
+Sep 14 00:51 : update: added Kyuss/Welcome to Sky Valley/03 Supa Scoopa and Mighty Scoop.flac
+Sep 14 00:51 : update: added Kyuss/Blues For The Red Sun/12 Allen's Wrench.flac
+Sep 14 00:51 : update: added Kyuss/Blues For The Red Sun/06 Apothecaries' Weight.flac
+Sep 14 00:51 : update: added Kyuss/Welcome to Sky Valley/06 Demon Cleaner.flac
+Sep 14 00:51 : update: added Kyuss/Blues For The Red Sun/07 Caterpillar March.flac
+Sep 14 00:51 : update: added Kyuss/Welcome to Sky Valley/05 Space Cadet.flac
+Sep 14 00:52 : update: added Kyuss/Blues For The Red Sun/13 Mondo Generator.flac
+Sep 14 02:01 : client: [0] closed
+Sep 14 02:01 : player: played "Soundgarden/Badmotorfinger/02 - Soundgarden - Outshined.flac"
+Sep 14 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 18:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 19:21 : client: [0] opened from 127.0.0.1:56620
+Sep 14 19:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 19:22 : player: played "Kyuss/Blues For The Red Sun/01 Thumb.flac"
+Sep 14 19:26 : player: played "Kyuss/Blues For The Red Sun/01 Thumb.flac"
+Sep 14 19:30 : player: played "Kyuss/Blues For The Red Sun/02 Green Machine.flac"
+Sep 14 19:33 : player: played "Kyuss/Blues For The Red Sun/03 Molten Universe.flac"
+Sep 14 19:39 : player: played "Kyuss/Blues For The Red Sun/04 50 Million Year Trip [Downside Up].flac"
+Sep 14 19:43 : player: played "Kyuss/Blues For The Red Sun/05 Thong Song.flac"
+Sep 14 19:48 : player: played "Kyuss/Blues For The Red Sun/06 Apothecaries' Weight.flac"
+Sep 14 19:50 : player: played "Kyuss/Blues For The Red Sun/07 Caterpillar March.flac"
+Sep 14 19:57 : player: played "Kyuss/Blues For The Red Sun/08 Freedom Run.flac"
+Sep 14 19:59 : player: played "Kyuss/Blues For The Red Sun/09 800.flac"
+Sep 14 20:03 : player: played "Kyuss/Blues For The Red Sun/10 Writhe.flac"
+Sep 14 20:04 : player: played "Kyuss/Blues For The Red Sun/11 Capsized.flac"
+Sep 14 20:06 : player: played "Kyuss/Blues For The Red Sun/12 Allen's Wrench.flac"
+Sep 14 20:13 : player: played "Kyuss/Blues For The Red Sun/13 Mondo Generator.flac"
+Sep 14 20:13 : player: played "Kyuss/Blues For The Red Sun/14 Yeah.flac"
+Sep 14 20:20 : player: played "Kyuss/Welcome to Sky Valley/01 Gardenia.flac"
+Sep 14 20:24 : player: played "Kyuss/Welcome to Sky Valley/02 Asteroid.flac"
+Sep 14 20:37 : player: played "Kyuss/Welcome to Sky Valley/05 Space Cadet.flac"
+Sep 14 20:47 : player: played "Kyuss/Welcome to Sky Valley/07 Odyssey.flac"
+Sep 14 20:49 : player: played "Kyuss/Welcome to Sky Valley/08 Conan Troutman.flac"
+Sep 14 20:53 : player: played "Kyuss/Welcome to Sky Valley/09 N.O..flac"
+Sep 14 21:14 : player: played "Soundgarden/Badmotorfinger/05 - Soundgarden - Face Pollution.flac"
+Sep 14 21:18 : player: played "Soundgarden/Badmotorfinger/06 - Soundgarden - Somewhere.flac"
+Sep 14 21:27 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/02.About A Girl.mp3"
+Sep 14 21:30 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/03.Been A Son.mp3"
+Sep 14 21:32 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/04.Sliver.mp3"
+Sep 14 21:37 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/05.Smells Like Teen Spirit.mp3"
+Sep 14 21:41 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/06.Come As You Are.mp3"
+Sep 14 21:45 : client: [0] closed
+Sep 14 21:45 : client: [1] opened from 127.0.0.1:58924
+Sep 14 21:48 : player: played "Nirvana - Greatest Hits (2002) vtwin88cube/10.Pennyroyal Tea.mp3"
+Sep 14 21:51 : player: played "Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/01 - Black Sabbath - Paranoid.mp3"
+Sep 14 21:57 : player: played "Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/02 - Black Sabbath - Iron Man.mp3"
+Sep 14 22:04 : player: played "Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/04 - Black Sabbath - Fairies Wear Boots.mp3"
+Sep 14 22:12 : player: played "Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/05 - Black Sabbath - War Pigs.mp3"
+Sep 14 22:15 : player: played "Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/06 - Black Sabbath - Never Say Die.mp3"
+Sep 14 22:45 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 14 22:49 : player: played "Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/08_international-rq.mp3"
+Sep 14 22:55 : player: played "[2008]Deathconsciousness/102-have_a_nice_life--bloodhail.mp3"
+Sep 14 23:05 : player: played "Kyuss/Blues For The Red Sun/02 Green Machine.flac"
+Sep 14 23:08 : player: played "Kyuss/Blues For The Red Sun/03 Molten Universe.flac"
+Sep 14 23:09 : client: [1] closed
+Sep 14 23:09 : client: [2] opened from 127.0.0.1:60270
+Sep 14 23:10 : client: [2] closed
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/15. Black selebration.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/01. A pain that i'm used to.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/13. Everthing counts.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/09. Dangerous.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/10. Home.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/16. One caress.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/07. Walking in my shoes.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/05. Join the revelator.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/02. I feel you.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/11. Sweetest perfection.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/06. Personal jesus.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/14. Never let me down again.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/17. A question of last.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/03. Halo.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/12. Master and servant.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/04. Dream on.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd2/08. Barrel of a gun.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/12. A question of time.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/08. Word in my eyes.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/04. Enjoy the silence.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/05. In your room.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/15. Little 15.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/11. Behind the wheel.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/06. Policy of truth.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/10. Free love.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/07. Precious.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/13. Stripped.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/02. I feel loved.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/16. Useless.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/03. Suffer well.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/01. Martyr.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/14. Strangelove.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/17. Only when i lose myself.mp3
+Sep 14 23:13 : update: updating Depeche Mode - Greatest Hits (2CD) [Star Mark Compilation 2008]/cd1/09. It's no good.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/04 - Heresy.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/08 - Clash With Reality.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/01 - Cowboys From Hell.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/11 - The Sleep.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/06 - Domination.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/05 - Cemetery Gates.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/12 - The Art Of Shredding.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/02 - Primal Concrete Sledge.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/09 - Medicine Man.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/07 - Shattered.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/10 - Message In Blood.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1990 - Cowboys From Hell (AMCY-140)/03 - Psycho Holiday.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/03 - 5 Minutes Alone.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/05 - Good Friends And A Bottle Of Pills.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/06 - Hard Lines, Sunken Cheeks.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/12 - Planet Caravan (Black Sabbath cover).mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/07 - Slaughtered.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/01 - Strength Beyond Strength.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/08 - 25 Years.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/11 - Throes Of Rejection.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/02 - Becoming.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/09 - Shedding Skin.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/10 - Use My Third Arm.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/04 - I'm Broken.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1994 - Far Beyond Driven (AMCY-670)/13 - The Badge (Poison Idea cover).mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/09 - Regular People (Conceit).mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/02 - A New Level.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/08 - Living In A Hole.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/05 - This Love.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/01 - Mouth For War.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/04 - Fucking Hostile.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/10 - By Demons Be Driven.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/11 - Hollow.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/06 - Rise.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/07 - No Good (Attack The Radical).mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1992 - Vulgar Display Of Power (AMCY-378)/03 - Walk.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/03 - Yesterday Don't Mean Shit.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/08 - Uplift.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/05 - Revolution Is My Name.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/09 - It Makes Them Disappear.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/07 - We'll Grind That Axe For A Long Time.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/06 - Death Rattle.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/02 - Goddamn Electric.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/01 - Hellbound.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/10 - I'll Cast A Shadow.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/2000 - Reinventing The Steel (AMCY-7131)/04 - You've Got To Belong To It.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/11 - (Reprise) Sandblasted Skin.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/06 - Suicide Note Pt. I.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/09 - Floods.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/03 - Drag The Waters.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/02 - War Nerve.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/04 - 10's.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/12 - Walk (Live Version).mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/10 - The Underground In America.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/01 - The Great Southern Trendkill.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/05 - 13 Steps To Nowhere.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/07 - Suicide Note Pt. II.mp3
+Sep 14 23:13 : update: updating Pantera Discography/Albums/1996 - The Great Southern Trendkill (AMCY-940)/08 - Living Through Me (Hells' Wrath).mp3
+Sep 14 23:13 : update: updating [1998] Mezzanine/09-Mezzanine.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/08-Black Milk.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/04-Inertia Creeps.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/06-Dissolved Girl.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/02-Risingson.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/10-Group Four.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/07-Man Next Door.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/03-Teardrop.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/01-Angel.flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/11-(Exchange).flac
+Sep 14 23:13 : update: updating [1998] Mezzanine/05-Exchange.flac
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/11.Rape Me.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/07.Lithium.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/08.In Bloom.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/06.Come As You Are.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/14.The Man Who Sold The World.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/04.Sliver.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/13.All Apologies.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/12.Dumb.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/03.Been A Son.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/09.Heart Shaped Box.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/02.About A Girl.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/01.You Know You're Right.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/05.Smells Like Teen Spirit.mp3
+Sep 14 23:13 : update: updating Nirvana - Greatest Hits (2002) vtwin88cube/10.Pennyroyal Tea.mp3
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/12 - Shadows of Tomorrow (ft. Lord Quas).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/03 - Meat Grinder.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/13 - Operation Lifesaver aka Mint Test.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/09 - Curls.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/22 - Rhinestone Cowboy.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/14 - Figaro.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/10 - Do Not Fire! (Inst.).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/02 - Accordion.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/07 - Sickfit (Inst.).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/06 - America's Most Blunted (ft. Quas).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/01 - The Illest Villains.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/11 - Money Folder.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/21 - Great Day Today.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/20 - All Caps.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/05 - Raid (ft. M.E.D. aka Medaphoar).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/16 - Strange Ways.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/18 - Eye (ft. Stacy Epps).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/15 - Hardcore Hustle (ft. Wildchild).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/19 - Supervillain Theme (Inst.).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/08 - Rainbows.flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/17 - Fancy Clowns (ft. Viktor Vaughn).flac
+Sep 14 23:13 : update: updating Madvillain-Madvillainy (2004) FLAC/04 - Bistro.flac
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/03 - Give It.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/06 - He Feels Bad.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/08 - You Borrowed.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/02 - Ironhead.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/09 - FBLA II.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/04 - Unsung.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/07 - Better.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/10 - Role Model.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/05 - Turned Out.mp3
+Sep 14 23:13 : update: updating Helmet - Дискография mp3/1992 - Meantime/01 - In The Meantime.mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/03-living_colour-funny_vibe - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/01-living_colour-cult_of_personality - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/10-living_colour-pride - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/04-living_colour-glamour_boys - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/11-living_colour-times_up - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/09-living_colour-solace_of_you - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/14-living_colour-burning_of_the_midnight_lamp - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/17-living_colour-love_rears_its_ugly_head_(soulpower_hip_hop_remix) - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/02-living_colour-open_letter_(to_a_landlord) - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/05-living_colour-middle_man - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/07-living_colour-elvis_is_dead - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/08-living_colour-type - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/16-living_colour-flying - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/12-living_colour-go_away - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/13-living_colour-nothingness - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/15-living_colour-sunshine_of_your_love - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Living Colour - Everything Is Possible - The Very Best Of [Rock][2006][www.pctrecords.com]/06-living_colour-memories_cant_wait - [www.pctrecords.com].mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/11-alice_in_chains-i_know_somethin'_('bout_you)-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/10-alice_in_chains-confusion-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/06-alice_in_chains-love_hate_love-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/02-alice_in_chains-man_in_the_box-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/04-alice_in_chains-bleed_the_freak-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/07-alice_in_chains-it_ain't_like_that-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/03-alice_in_chains-sea_of_sorrow-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/12-alice_in_chains-real_thing-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/09-alice_in_chains-put_you_down-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/05-alice_in_chains-i_can't_remember-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/01-alice_in_chains-we_die_young-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Facelift-1990-h8me/08-alice_in_chains-sunshine-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/07-alice_in_chains-dirt-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/04-alice_in_chains-sickman-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/01-alice_in_chains-them_bones-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/08-alice_in_chains-god_smack-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/02-alice_in_chains-damn_that_river-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/11-alice_in_chains-down_in_a_hole-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/05-alice_in_chains-rooster-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/12-alice_in_chains-would-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/09-alice_in_chains-hate_to_feel-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/10-alice_in_chains-angry_chair-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/06-alice_in_chains-junkhead-h8me.mp3
+Sep 14 23:13 : update: updating Alice_In_Chains-Discography-(21CD)-h8me/Alice_In_Chains-Dirt-1992-h8me/03-alice_in_chains-rain_when_i_die-h8me.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/12 - Black Sabbath - Sabbath Bloody Sabbath.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/11 - Black Sabbath - Evil Woman, Don't Play Your Games With Me.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/05 - Black Sabbath - War Pigs.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/06 - Black Sabbath - Never Say Die.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/07 - Black Sabbath - Children Of The Grave.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/10 - Black Sabbath - Sweet Leaf.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/02 - Black Sabbath - Iron Man.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/09 - Black Sabbath - Snow Blind.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/04 - Black Sabbath - Fairies Wear Boots.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/03 - Black Sabbath - Changes.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/01 - Black Sabbath - Paranoid.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/14 - Black Sabbath - N.I.B.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/13 - Black Sabbath - Black Sabbath.mp3
+Sep 14 23:13 : update: updating Black Sabbath - Greatest Hits 2009 [MP3 @ 320] (oan)/08 - Black Sabbath - The Wizard.mp3
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/03 - Take The Power Back.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/04 - Settle For Nothing.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/06 - Know Your Enemy.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/02 - Killing In The Name.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/08 - Fistful Of Steel.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/01 - Bombtrack.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/07 - Wake Up.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/10 - Freedom.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/09 - Township Rebellion.flac
+Sep 14 23:13 : update: updating Rage Against The Machine - Rage Against The Machine (1992) [FLAC]/05 - Bullet In The Head.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/14 - Half.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/08 - Spoonman.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/10 - The Day I Tried to Live.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/09 - Limo Wreck.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/05 - Superunknown.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/06 - Head Down.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/15 - Like Suicide.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/13 - 4th of July.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/11 - Kickstand.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/04 - Mailman.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/01 - Let Me Drown.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/07 - Black Hole Sun.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/03 - Fell on Black Days.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/16 - She Likes Surprises.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/02 - My Wave.flac
+Sep 14 23:13 : update: updating Soundgarden/Superunknown/12 - Fresh Tendrils.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/16 - Soundgarden - Boot Camp.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/11 - Soundgarden - Tighter & Tighter.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/07 - Soundgarden - Burden In My Hand.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/01 - Soundgarden - Pretty Noose.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/14 - Soundgarden - Overfloater.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/02 - Soundgarden - Rhinosaur.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/15 - Soundgarden - An Unkind.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/13 - Soundgarden - Switch Opens.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/06 - Soundgarden - Blow Up The Outside World.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/03 - Soundgarden - Zero Chance.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/10 - Soundgarden - Never The Machine Forever.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/05 - Soundgarden - Ty Cobb.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/09 - Soundgarden - Applebite.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/12 - Soundgarden - No Attention.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/08 - Soundgarden - Never Named.flac
+Sep 14 23:13 : update: updating Soundgarden/Down On The Upside/04 - Soundgarden - Dusty.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/07 - Soundgarden - Loud Love.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/01 - Soundgarden - Ugly Truth.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/04 - Soundgarden - Power Trip.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/12 - Soundgarden - Full On (Reprise).flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/03 - Soundgarden - Gun.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/08 - Soundgarden - I Awake.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/02 - Soundgarden - Hands All Over.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/10 - Soundgarden - Uncovered.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/06 - Soundgarden - Full On Kevin's Mom.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/09 - Soundgarden - No Wrong No Right.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/11 - Soundgarden - Big Dumb Sex.flac
+Sep 14 23:13 : update: updating Soundgarden/Louder Than Love/05 - Soundgarden - Get On the Snake.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/06 - Soundgarden - Somewhere.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/01 - Soundgarden - Rusty Cage.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/09 - Soundgarden - Mind Riot.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/02 - Soundgarden - Outshined.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/05 - Soundgarden - Face Pollution.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/03 - Soundgarden - Slaves & Bulldozers.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/10 - Soundgarden - Drawing Flies.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/11 - Soundgarden - Holy Water.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/07 - Soundgarden - Searching With My Good Eye Closed.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/08 - Soundgarden - Room A Thousand Years Wide.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/12 - Soundgarden - New Damage.flac
+Sep 14 23:13 : update: updating Soundgarden/Badmotorfinger/04 - Soundgarden - Jesus Christ Pose.flac
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/103-have_a_nice_life--the_big_gloom.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/102-have_a_nice_life--bloodhail.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/202-have_a_nice_life--holy_fucking_shit__40,000.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/107-have_a_nice_life--there_is_no_food.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/206-have_a_nice_life--earthmover.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/203-have_a_nice_life--the_future.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/105-have_a_nice_life--telephony.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/204-have_a_nice_life--deep,_deep.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/106-have_a_nice_life--who_would_leave_their_son_out_in_the_sun.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/201-have_a_nice_life--waiting_for_black_metal_records_to_come_in_the_mai.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/205-have_a_nice_life--i_don't_love.mp3
+Sep 14 23:13 : update: updating [2008]Deathconsciousness/104-have_a_nice_life--hunter.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/11 - Shine Like Stars.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/05 - Inner Flight.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/06 - Come Together.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/02 - Slip Inside This House.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/08 - Damaged.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/04 - Higher Than The Sun.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/10 - Higher Than The Sun (A Dub Symphony In Two Parts).mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/07 - Loaded.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/01 - Movin' On Up.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/09 - I'm Comin' Down.mp3
+Sep 14 23:13 : update: updating Primal Scream [Discography]/[1991] Screamadelica/03 - Don't Fight It, Feel It.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/06.-Nightrain.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/04.-Mr.Brownstone.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/07.-You Could Be Mine.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/13.-Civil War.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/09.-Live And Let Die.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/17.-Chinese Democracy.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/02.-Welcome To The Jungle.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/15.-Since I Don't Have You.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/03.-Paradise City.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/08.-Don't Cry.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/14.-Ain't It Fun.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/05.-Patience.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/01.-Sweet Child O' Mine.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/16.-Sympathy For The Devil.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/12.-Yesterdays.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/11.-Knockin' On Heaven's Door.mp3
+Sep 14 23:13 : update: updating Guns N' Roses - The Very Best Of Guns N' Roses (2009) [320] vtwin88cube/10.-November Rain.mp3
+Sep 14 23:13 : update: added Sicario 2015 1080p BluRay x264 AC3-JYK/Sicario 2015 1080p BluRay x264 AC3-JYK.mkv
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/04 - No More Tears.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/10 - See You On The Other Side.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/02 - Crazy Train.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/12 - Back In The Moon.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/03 - I Just Want You.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/13 - Mr. Crowley.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/05 - Close My Eyes Forever.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/09 - Over The Mountain.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/07 - Mama, I'm Coming Home.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/08 - Miracle Man.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/11 - Hellraiser.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/15 - Walk On Water.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/14 - Secret Loser.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/01 - Shot In The Dark.mp3
+Sep 14 23:13 : update: updating Ozzy Osbourne - The Very Best/06 - Tomorrow.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/04. Blackjack.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/06. I've Seen Footage.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/10. Punk Weight.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/13. Hacker.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/07. Double Helix.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/02. The Fever (Aye Aye).mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/08. System Blower.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/12. Bitch Please.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/11. Fuck That.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/03. Lost Boys.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/01. Get Got.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/05. Hustle Bones.mp3
+Sep 14 23:13 : update: updating Death Grips - 2012 - The Money Store/09. The Cage.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Hanging On The Telephone (Blondie Cover).mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Gas Chamber.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/09. L7 - Monster.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/03. L7 - Pretend We're Dead.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/04. L7 - Diet Pill.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/01. L7 - Wargasm.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/07. L7 - One More Thing.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/06. L7 - Slide.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/10. L7 - Shitlist.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/11. L7 - This Ain't Pleasure.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/02. L7 - Scrap.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/05. L7 - Everglade.mp3
+Sep 14 23:13 : update: updating L7/L7/L7 - Bricks Are Heavy (1992)/08. L7 - Mr. Integrity.mp3
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/06.Three Days.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/05.Been Caught Stealing.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/08.Of Course.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/04.Obvious.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/07.Then She Did....flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/09.Classic Girl.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/02.No One's Leaving.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/03.Ain't No Right.flac
+Sep 14 23:13 : update: updating Jane's Addiction - Discography (1987-2011) [FLAC] vtwin88cube/Jane's Addiction - Ritual De Lo Habitual (1990) [FLAC]/01.Stop!.flac
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/107-faith_no_more-caffeine.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/209-faith_no_more-das_schutzenfest_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/110-faith_no_more-midlife_crisis.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/210-faith_no_more-this_guys_in_love_with_you_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/115-faith_no_more-ricochet.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/205-faith_no_more-the_world_is_yours_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/207-faith_no_more-sweet_emotion.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/203-faith_no_more-light_up_and_let_go_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/116-faith_no_more-ashes_to_ashes.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/102-faith_no_more-from_out_of_nowhere.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/101-faith_no_more-the_real_thing.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/112-faith_no_more-everythings_ruined.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/103-faith_no_more-epic.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/208-faith_no_more-new_improved_song.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/111-faith_no_more-a_small_victory.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/118-faith_no_more-easy.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/113-faith_no_more-evidence.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/204-faith_no_more-i_wont_forget_you.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/108-faith_no_more-land_of_sunshine.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/202-faith_no_more-the_big_kahuna_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/106-faith_no_more-kindergarten.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/105-faith_no_more-rnr.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/114-faith_no_more-digging_the_grave.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/117-faith_no_more-stripsearch.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/109-faith_no_more-be_aggressive.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/104-faith_no_more-we_care_a_lot.mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/201-faith_no_more-absolute_zero_(b-side).mp3
+Sep 14 23:13 : update: updating Faith No More - The Very Best Definitive Ultimate Greatest Hits Collection (2009) - Rock [www.torrentazos.com]/206-faith_no_more-hippie_jam_song.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/12_design_-_2_-_3-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/04_fruitcake_and_cookies-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/02_dsco-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/05_5_sept-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/03_velocity-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/10_chocolate_matter-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/06_pro_-_lov_-_ad-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/08_international-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/11_to_all_the_dancers_of_the_world_a_round_form_of_fantasy-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/01_tekka-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/07_design_-_1-rq.mp3
+Sep 14 23:13 : update: updating Sweet Trip/Sweet Trip - Velocity Design Comfort (2003)/09_dedicated-rq.mp3
+Sep 14 23:13 : client: [3] opened from 127.0.0.1:60536
+Sep 14 23:18 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac"
+Sep 14 23:21 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/02 - Lucifer Sam.flac"
+Sep 14 23:24 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/03 - Matilda Mother.flac"
+Sep 14 23:34 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/07 - Interstellar Overdrive.flac"
+Sep 14 23:36 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/08 - The Gnome.flac"
+Sep 14 23:40 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/09 - Chapter 24.flac"
+Sep 14 23:52 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/05 - Pow R. Toc H..flac"
+Sep 14 23:55 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk.flac"
+Sep 15 00:05 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/08 - The Gnome.flac"
+Sep 15 00:09 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/09 - Chapter 24.flac"
+Sep 15 00:15 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/04 - Corporal Clegg.flac"
+Sep 15 00:27 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/05 - A Saucerful Of Secrets.flac"
+Sep 15 00:32 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/06 - See-Saw.flac"
+Sep 15 00:35 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/07 - Jugband Blues.flac"
+Sep 15 00:58 : client: [3] closed
+Sep 15 00:58 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Live Album 1969 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac"
+Sep 15 14:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 14:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 18:33 : client: [0] opened from 127.0.0.1:37170
+Sep 15 18:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 18:39 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac"
+Sep 15 18:43 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/02 - Lucifer Sam.flac"
+Sep 15 18:46 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/03 - Matilda Mother.flac"
+Sep 15 18:48 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/04 - Flaming.flac"
+Sep 15 18:53 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/05 - Pow R. Toc H..flac"
+Sep 15 18:56 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk.flac"
+Sep 15 19:06 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/07 - Interstellar Overdrive.flac"
+Sep 15 19:08 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/08 - The Gnome.flac"
+Sep 15 19:12 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/09 - Chapter 24.flac"
+Sep 15 19:27 : client: [0] closed
+Sep 15 19:33 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 15 19:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:38 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 15 19:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:45 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 15 19:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 01:50 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 16 22:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 22:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 22:28 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 17 15:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 16:07 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 17 16:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 16:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 18:53 : update: added The.Founder.2016.1080p.BRRip.x264.AAC-ETRG/The.Founder.2016.1080p.BRRip.x264.AAC-ETRG.mp4
+Sep 17 20:37 : update: added Fight Club (1999) [1080p]/Fight.Club.10th.Anniversary.Edition.1999.1080p.BrRip.x264.YIFY.mp4
+Sep 18 00:46 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 18 18:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 18:05 : client: [0] opened from 127.0.0.1:33672
+Sep 18 18:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 18:08 : player: played "Death Grips - 2012 - The Money Store/13. Hacker.mp3"
+Sep 18 18:12 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/01 - Astronomy Domine.flac"
+Sep 18 18:15 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/02 - Lucifer Sam.flac"
+Sep 18 18:18 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/03 - Matilda Mother.flac"
+Sep 18 18:21 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/04 - Flaming.flac"
+Sep 18 18:25 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/05 - Pow R. Toc H..flac"
+Sep 18 18:29 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/06 - Take Up Thy Stethoscope And Walk.flac"
+Sep 18 18:38 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/07 - Interstellar Overdrive.flac"
+Sep 18 18:40 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/08 - The Gnome.flac"
+Sep 18 18:44 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/09 - Chapter 24.flac"
+Sep 18 18:46 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - The Piper at the Gates of Dawn 1967 [EAC - FLAC] (oan)/10 - The Scarecrow.flac"
+Sep 18 18:54 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/01 - Let There Be More Light.flac"
+Sep 18 18:59 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/02 - Remember A Day.flac"
+Sep 18 19:04 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/03 - Set The Controls For The Heart Of The Sun.flac"
+Sep 18 19:09 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/04 - Corporal Clegg.flac"
+Sep 18 19:21 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/05 - A Saucerful Of Secrets.flac"
+Sep 18 19:25 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/06 - See-Saw.flac"
+Sep 18 19:28 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/07 - Jugband Blues.flac"
+Sep 18 19:31 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - A Saucerful Of Secrets 1968 [EAC - FLAC] (oan)/07 - Jugband Blues.flac"
+Sep 18 19:32 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/01 - Sysyphus [Part One].flac"
+Sep 18 19:36 : player: played "Pink Floyd - Discography [EAC - FLAC] (oan)/Pink Floyd - Ummagumma - Studio Album 1969 [EAC - FLAC] (oan)/02 - Sysyphus [Part Two].flac"
+Sep 18 21:08 : client: [0] closed
+Sep 18 21:11 : client: [1] opened from 127.0.0.1:37532
+Sep 18 21:15 : update: added House of Cards Season 1/House of Cards S01E01 (1080p x265 Joy).mkv
+Sep 18 21:26 : update: added House of Cards Season 1/House of Cards S01E02 (1080p x265 Joy).mkv
+Sep 18 22:22 : update: added House of Cards Season 1/House of Cards S01E03 (1080p x265 Joy).mkv
+Sep 18 23:08 : update: added House of Cards Season 1/House of Cards S01E04 (1080p x265 Joy).mkv
+Sep 19 00:09 : update: added House of Cards Season 1/House of Cards S01E05 (1080p x265 Joy).mkv
+Sep 19 01:12 : update: added House of Cards Season 1/House of Cards S01E06 (1080p x265 Joy).mkv
+Sep 19 02:05 : update: added House of Cards Season 1/House of Cards S01E07 (1080p x265 Joy).mkv
+Sep 19 02:59 : update: added House of Cards Season 1/House of Cards S01E13 (1080p x265 Joy).mkv
+Sep 19 03:03 : update: added House of Cards Season 1/House of Cards S01E08 (1080p x265 Joy).mkv
+Sep 19 03:03 : update: added House of Cards Season 1/House of Cards S01E11 (1080p x265 Joy).mkv
+Sep 19 03:03 : update: added House of Cards Season 1/House of Cards S01E09 (1080p x265 Joy).mkv
+Sep 19 03:03 : update: added House of Cards Season 1/House of Cards S01E10 (1080p x265 Joy).mkv
+Sep 19 03:03 : update: added House of Cards Season 1/House of Cards S01E12 (1080p x265 Joy).mkv
+Sep 19 03:39 : client: [1] closed
+Sep 19 03:39 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 19 14:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 19:38 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E02 Chapter 15 (1080p x265 10bit Joy).mkv
+Sep 19 19:38 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E03 Chapter 16 (1080p x265 10bit Joy).mkv
+Sep 19 19:38 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E04 Chapter 17 (1080p x265 10bit Joy).mkv
+Sep 19 19:38 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E01 Chapter 14 (1080p x265 10bit Joy).mkv
+Sep 20 00:39 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E05 Chapter 18 (1080p x265 10bit Joy).mkv
+Sep 20 00:39 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E07 Chapter 20 (1080p x265 10bit Joy).mkv
+Sep 20 00:39 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E06 Chapter 19 (1080p x265 10bit Joy).mkv
+Sep 20 00:39 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E08 Chapter 21 (1080p x265 10bit Joy).mkv
+Sep 20 01:54 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E09 Chapter 22 (1080p x265 10bit Joy).mkv
+Sep 20 02:02 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 20 15:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 15:51 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E10 Chapter 23 (1080p x265 10bit Joy).mkv
+Sep 20 17:37 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 20 17:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 17:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 21:14 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E11 Chapter 24 (1080p x265 10bit Joy).mkv
+Sep 20 21:14 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E13 Chapter 26 (1080p x265 10bit Joy).mkv
+Sep 20 21:14 : update: added House of Cards Season 2 (1080 x265 10bit Joy)/House of Cards S02E12 Chapter 25 (1080p x265 10bit Joy).mkv
+Sep 21 00:04 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E01.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 00:43 : client: [0] opened from 127.0.0.1:37526
+Sep 21 00:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 00:43 : client: [0] closed
+Sep 21 00:43 : client: [1] opened from 127.0.0.1:37546
+Sep 21 00:43 : client: [1] closed
+Sep 21 02:24 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E04.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:26 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E02.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:26 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E08.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:26 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E07.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:26 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E06.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E03.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E13.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E12.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E05.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E10.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E09.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 02:27 : update: added House.of.Cards.Season.3.720p.BluRay.x264.ShAaNiG/House.of.Cards.S03E11.720p.BluRay.x264.ShAaNiG.mkv
+Sep 21 13:30 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 21 13:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 13:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 14:24 : update: removing The.Founder.2016.1080p.BRRip.x264.AAC-ETRG/The.Founder.2016.1080p.BRRip.x264.AAC-ETRG.mp4
+Sep 22 01:46 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 22 14:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 14:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 15:06 : player: played "[2008]Deathconsciousness/101-have_a_nice_life--a_quick_one_before_the_eternal_worm_devours_connec.mp3"
+Sep 22 15:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 15:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
