@@ -20,7 +20,7 @@ git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
 git push -u origin master
 
 # webserver:
-nvim -c VimwikiIndex -c VimwikiAll2HTML -c q index.wiki
+vim -c VimwikiIndex -c VimwikiAll2HTML -c q
 cd ~/repos/webserver
 git add .
 git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
