@@ -2583,3 +2583,9 @@ Nov 11 20:36 : update: added The Matrix Reloaded (2003) [1080p]/The.Matrix.Reloa
 Nov 12 01:42 : update: removing The Matrix (1999) [1080p]/The.Matrix.1999.1080p.BrRip.x264.YIFY.mp4
 Nov 12 01:42 : update: removing The Matrix Reloaded (2003) [1080p]/The.Matrix.Reloaded.2003.1080p.BrRip.x264.YIFY.mp4
 Nov 12 01:43 : player: played "DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/11 - This Place Is Death.mp3"
+Nov 24 16:50 : exception: Failed to decode /home/roland/dl/DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/11 - This Place Is Death.mp3; Failed to open '/home/roland/dl/DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/11 - This Place Is Death.mp3': No such file or directory
+Nov 24 16:50 : player: played "DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/11 - This Place Is Death.mp3"
+Nov 24 16:50 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 17:51 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 25 10:31 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 25 10:42 : exception: inotify_add_watch() has failed: No such file or directory

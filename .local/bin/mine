@@ -1,0 +1,22 @@
+#!/bin/sh
+
+#file="$(echo "${*}")"
+file=$1
+#grep "</b>" ~/msource.html \
+grep "</b>" $file \
+	| sed "s/^\s*/\t/;	\
+		s/<b>//;				\
+		s/<\/b>:\s*/:/;	\
+		s/\&amp;/\&/g;	\
+		s/\s*Postal.*//g;	\
+		s/\s*Owner.*//g; 	\
+		s/\s*Farm.*//g" 	\
+	| tr -d '\n' \
+	| sed "s/Mine Code/\nMine Code/g;s/\S*://g;s/Mine\s//g"
+
+# Deletes all white plus descriptors in front of data
+#| sed "s/\s*<.*:\s*//g"
+
+# Delete Farm entries
+#sed "s/<b>Mine Code.*//g;s/<b>Farm.*\n//;s/<.*:\s//g;s/\s*//;s/$/;/"
+#
