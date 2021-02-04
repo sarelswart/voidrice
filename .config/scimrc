@@ -1,0 +1,2 @@
+set newline_action=j
+imap "<TAB>" "<CR><UP><RIGHT>"

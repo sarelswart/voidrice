@@ -13,6 +13,8 @@ grep "</b>" $file \
 		s/\s*Farm.*//g" 	\
 	| tr -d '\n' \
 	| sed "s/Mine Code/\nMine Code/g;s/\S*://g;s/Mine\s//g"
+# | sed '/AGGREGATE/d'
+# 		s/\s*<li>.*//g; 		\
 
 # Deletes all white plus descriptors in front of data
 #| sed "s/\s*<.*:\s*//g"

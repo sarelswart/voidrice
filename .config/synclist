@@ -33,6 +33,7 @@
 .config/xinitrc
 .config/Xresources
 .config/synclist
+.config/scimrc
 .local/share/applications/
 .local/share/larbs/
 .local/share/bg

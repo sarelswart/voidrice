@@ -1,53 +1,13 @@
-sw_volume: 92
+sw_volume: 100
 audio_device_state:1:pulse
 audio_device_state:1:Visualizer feed
 state: stop
-current: 19
 random: 0
-repeat: 1
+repeat: 0
 single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/01 - My Own Summer (Shove It).mp3
-1:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/02 - Lhabia.mp3
-2:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/03 - Mascara.mp3
-3:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/04 - Around The Fur.mp3
-4:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/05 - Rickets.mp3
-5:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/06 - Be Quiet And Drive (Far Away).mp3
-6:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/07 - Lotion.mp3
-7:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/08 - Dai The Flu.mp3
-8:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/09 - Headup.mp3
-9:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1997] Around the Fur/10 - MX _ Damone.mp3
-10:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/02 - Royal.mp3
-11:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/03 - CMND_CTRL.mp3
-12:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/04 - You've Seen The Butcher.mp3
-13:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/05 - Beauty School.mp3
-14:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/06 - Prince.mp3
-15:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/07 - Rocket Skates.mp3
-16:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/08 - Sextape.mp3
-17:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/09 - Risk.mp3
-18:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/10 - 976–EVIL.mp3
-19:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2010] Diamond Eyes/11 - This Place Is Death.mp3
-20:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/01 - Feiticeira.mp3
-21:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/02 - Digital Bath.mp3
-22:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/03 - Elite.mp3
-23:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/04 - RX Queen.mp3
-24:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/07 - Knife Party.mp3
-25:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/10 - Change (In The House Of Flies).mp3
-26:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2000] White Pony (Limited Edition)/12 - The Boy's Republic.mp3
-27:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[2012] Koi No Yokan/09 - Rosemary.mp3
-28:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/01 - Bored.mp3
-29:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/02 - Minus Blindfold.mp3
-30:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/03 - One Weak.mp3
-31:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/04 - Nosebleed.mp3
-32:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/05 - Lifter.mp3
-33:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/06 - Root.mp3
-34:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/07 - 7 Words.mp3
-35:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/08 - Birthmark.mp3
-36:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/09 - Engine Number 9.mp3
-37:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/10 - Fireal.mp3
-38:DEFTONES - DISCOGRAPHY [CHANNEL NEO]/[1995] Adrenaline/11 - Fist (Hidden Track).mp3
 playlist_end
